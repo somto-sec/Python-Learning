@@ -1,1 +1,1 @@
-
+learnt about lists and how to manipulate them and they can be either strings or numbers ., also tuples which cant be easy to manipulate due to its nature and lastly how to manipulate and use sets which apparently doesnt really care about the order but are strict on duplicates.
